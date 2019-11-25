@@ -1,0 +1,140 @@
+---
+title: "The contexts of Coherence"
+author: "Viviane Schneider"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: zenburn
+    theme: cerulean
+---
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=TRUE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+
+# Introduction
+
+This page describes a syntesys of the conceptual model of my PhD Work.
+
+Potential problems in use, governance and sustainability in a co-producing field of a common good can be caused by some human behaviors which lead to social dilemmas, such as competition for use of goods, lack of cooperation, inequality of information and overlapping of personal interests to the detriment of collective interests are some of regular problems that emerge from this complex system [2].  There are also some problems may obscure collective knowledge, and minimize the potential of common goods, such as information asymmetry, information bias, and lack or overconfidence between peers. 
+
+Those problems are called Eclipse Set, a symbolic representation of barriers in knowledge-intensive production in a sociotechnical context, which has the characteristic of concealing collective knowledge coproduced by agents, human, machines, or both [3]. These barriers occur because people bring different perspectives, interests, beliefs and philosophies, which lead to conflicts between perspectives and points of view. Such conflicts can trigger disagreements, hinder the achievement of common results, or in extreme cases, culminate in alliances dissolution [2,4].
+
+## Highlights
+
+•	The co-production coherence can be verified by analyzing clues of agents language, its beliefs and its actions.
+
+•	Co-production of reference concepts and symbols promote acceptance of community rules.
+
+•	Collective beliefs shape colletive knowledge. 
+
+•	colletive knowledge has the potential of developed 
+
+## Where and Why you can use this meta-model
+
+•	A guideline for build a systemic governance model, with evidences based in a symbolic approach.
+
+•	A guideline to build a system indicators that use evidences from culture and power of agents.
+
+•	A coherence index to analyse consortions, suplay chains,  
+
+## Agents and its befiefs
+
+In this context, understand mechanism of beliefs is fundamental to identified indicators in order to measure the coherence of a production chain and block Eclipse Set. One way to identify this mechanism is mapping and stablish concepts, and values into symbolic representation models. In socio-technical system, symbolic representation models support business management due to efficiency, expressiveness and interpretability of represent processes and concepts.
+
+An agent is a person or a computational system, autonomously capable acting in different contexts. Agents have this ability because their dynamics mental states, created from beliefs, desires and intentions [8–10]. Belief is an intentional state of mind, which represents the knowledge about the world [11]. Human agents are referential for computational agents cognitive modeling. In artificial agents, beliefs are considered a symbolic state representation of a possible world, which can be described in terms of variables, database, computational ontologies or predicate logic. 
+
+For agents (human or digital system), beliefs represent actions experience into a dynamic world, into some specific situations. Those experiences are record in agents minds through the symbols [8–12]. Agents can transform what they believe, their world view, from the symbols they internalize, and consequently, agents can change their actions on the world. Therefore, beliefs play a fundamental role in knowledge creation, but it is severely ignored in production and knowledge management. As Bourdieu [13] describes, beliefs are formed where dialogs are formed, in cultural interaction and in social media. Beliefs can be both, a product and an initial source of collective knowledge. Human agents needs to know if they share the same beliefs and symbolisms of their possible worlds or their perspective of what is possible and morally acceptable with other agents [8,14,15]. 
+
+## Symbols
+
+Selecting the right types of symbolic representations for coproduction tasks, allows structural alignment by similarity. Thus facilitating the learning of a system. In terms of evaluations, symbolic representations are more expressive and efficient than a purely statistical model [5]. The integration of symbolic representation into contracts for governance can benefit from semantic technologies (ontologies) as well as security technologies such as Blockchain [6]. However, studies are still needed to establish socio-technical environment capable to make integration of the negotiation of meanings with these technologies [7].
+
+In order to minimize the Eclipse Set, and make collective knowledge accessible to all agents (humans, machines or both), this article present CoheNet Metamodel, which aim to establish a common ground to a socio-technical community system. Common ground present in this research explores symbolic representations from the pragmatic level of production chains, intensive in knowledge and technologies (socio-technical complex system). These representations aggregate metadata structures to accommodate technologies such as Blockchain and ontologies, aiming to produce value with human and artificial agents. Using the logic of the practical rationality of an artificial or human agent, this study presents metrics of coherence between reference parameters and situational solutions, though a metamodel based in functional systemic linguistics. CoheNet metamodel is intended to support virtual heterogeneous agents interaction, with characteristics  such as, diversity of technologies, beliefs, values, and languages,  who come together to co-produce common goods, and have to deal with problems that conceal the productive knowledge (Eclipse Set) [3].
+
+
+## Design Science Research Methodology
+
+Metamodel proposed was developed from a Design Science Research (DSR) methodology,ilustrated in Figure 1
+
+![Figure 1 – Design Science Research Cycles from Schneider (3) apud (34).](https://viviane.ijas.me/wp-content/uploads/2019/10/F1.jpg)
+
+Using methods of integrative revision of literature, systematic reviews and exploratory research, Schneider [3] trailed an approach from the deductive method, which part of the following premises to form a conclusion:
+
+•	(premise 1): people unite to co-produce common goods because they believe in symbolic entities consistent with their beliefs [2,8,14,15, 20,21, 26, 29];
+
+•	(premise 2): Pragmatic Web supports the negotiation of common symbolic entities by presenting methods and techniques for the co-production of meanings and values between human and artificial agents [1,6,22–24];
+
+•	(conclusion): symbols described from Pragmatic Web methods and techniques unite agents in a common good co-production, in sociotechnical contexts.
+
+Pragmatic Web guidelines aims to support coproduction actions, in a phase prior to creation of artifacts, which provide understanding of concepts for systems, humans or both. For artificial agents, those artifacts can be algorithms, taxonomies, techniques, metadata architectures, or each thing can be transformed into inputs for databases, computational ontologies, predicate logic or smart contracts (with blockchain).  Furthermore, for human agents, those artifacts can be guides, manuals, contracts and agreements [22,31–33].
+
+# Contextual Coherence
+
+As showed Figure 2, theoretical and conceptual CoheNet Metamodel [3] is presented in three horizontal strands of aggregation, Source (knowledge resources), instance (formed into system negotiation), interface (representation).  The constitution basis of this vertical line begins into an individual level, when agents negotiated desires, which are priorities for agents and can be shared with external agents in given situations (situation context), as shown in Figure 2.
+
+![Figure 2 – Conceptual and Theorical Structure of PhD. Metamodel](https://viviane.ijas.me/wp-content/uploads/2019/10/F2.jpg)
+
+Therefore, desires need to be coherent with the expectation of the community, because shared coherence itself is what unites agents around these common instances. Plans must necessarily be consistent with agent beliefs, and therefore coherence is the key term to ensure the consistency of this representation chain[3].
+
+
+# Context Dimensions
+The data collection is made in three phases, following the CoheNet metadata architecture. The referential context data was identified by metadata of rules and culture of sociotechnical environment (or network), into three contexts, as follow: 
+
+## Referential Context
+•	Referential context: the metadata is a guide for identified indicators represent the elements of common contract, cultural perspective and reference policies. In the scale from 0 to 1, where 1 is a maximum score, the indicators are stablish from a qualitative analyses, according with metadata architecture from CoheNet Metamodel [3].
+
+
+## Situational Context
+	Situational context: Identify potential data describing the interaction in coproduction of the common good. Observe the size of the data universe and define the sample. Check sample error and confidence level. Clean and organize the collected data, if necessary. Summarize and classify data. Based on the correlation of the data, establish a record number of relevance. Identify data correlations  [3].
+•
+
+## Representational Context
+Representation context: metadata of contextual coherence of network. Data Source came from referential context and situational context [3].
+
+# Coherence Dimensions
+Into CoheNet Metamodel, Contextual coherence index is a scale from 0 to 1. It aims to measure the alignment between cultural symbolic agreements, values and concepts negotiation.  CoheNet Metamodel was design specially for human and artificial agents, in contexts intensive in knowledge and technologies (complex socio-technical system).  Equation to calculate this index is present in follow Equation 1.
+
+
+
+
+
+
+## Referenciality (Rf)
+Coherence of Referentiality (Rf) is a dimension in CoheNet Metamodel [3], which represents into a scale from 0 to 1(max), the quality of socio-technical arrangement referential. It aims to measure the virtual described robustness of the symbolic referential, such as, social contract, culture, norms, ideas, common goals, etc., of a particular community. In CoheNet Metamodel (2019) [3] the referential index Referenciality (Rf) is calculated by the following formula, where RCC is the indicators set that represents Referential Common Contract elements, RCP is the Referential Cultural Perspective elements set, and RP is the Referential Policies elements set. RCC, RCP and RP are metadata set, which represents the indicators mean, stablish from metadata architecture guidelines, by arrangement manager, data scientist, knowledge engineer, or/and group members.
+
+$Rf=RCC+RCP+RP	(6)$
+
+## Receptivity (Rc)
+Receptivity (Rc) is a coherence dimension such represents into a scale from 0 to 1 (max), how much the referential of a socio-technical arrangement (roles, policies, culture and symbolic hierarchy) are accepted by agents. Into follow formula Eq. 7, Mode Metadata Structure (M) has follow indicators which represents quality: Role_in_Exchange (RiE), Goods-&-Services (G&S), Information (Inf), Proposal (Giv), Proposition (Dem), Discussed Topic (DT), Consensus Negotiation (CN) [3].  RCC, RCP and RP are metadata set, which represents the indicators mean, stablish from metadata architecture guidelines, by arrangement manager, data scientist, knowledge engineer, or/and group members.
+Rc=(RiE+G&S+Inf+Giv+Dem+DT+CN )/7
+	(7)
+
+
+## Prescritivity (Pr)
+
+Prescritivity (Pr) is a coherence dimensions such represents into a scale from 0 to 1 (max). Its measure the quality of agent actions, compared with socio-technical context references. The formula Eq. 9, describe elements from Situational Norms (SNo) Metadata Structure such as, Situational_Norms_Coproduction (SNCo) and Situational Norms Comprehensiveness (SNC). SNCo, SNC are metadata set, which represents the indicators mean, stablish from metadata architecture guidelines, by arrangement manager, data scientist, knowledge engineer, or/and group members [3].  
+
+Pr=(SNCo+SNC)/2
+	(9)
+
+## Sense of Unity (SoU)
+
+Sense of unity (SoU) is a coherence dimensions such represents into a scale from 0 to 1 (max), the communication convergence of a socio-technical arrangement. Into follow formula Eq. 8, elements represents quality of semantic convergence through the follow indicators described into Situational Negotiation (SN) Metadata Structure: Mode Field Attributes Set  - Accessibility production (MFAZ1), Mode Field Attributes Set - Historical (MFAZ2), Mode Field Attributes Set - Security (MFAZ3), Mode Field Attributes Set - Learning (MFAZ4),   Mode_Tenor_Members – Content coproduction group (MTM1), Mode_Tenor_Members – Correlation of Workflow (MTM2), [3].  MFAZ1, MFAZ2, MFAZ3, MFAZ4, MTM1, MTM2 are metadata set, which represents the indicators mean, stablish from metadata architecture guidelines, by arrangement manager, data scientist, knowledge engineer or/and group members.
+
+SoU=(MFAZ1+MFAZ2+MFAZ3+MFAZ4+MTM1+MTM2 )/6	(8)
+

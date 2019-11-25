@@ -1,0 +1,11 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.13)  13 NOV 2019 18:18
+entering extended mode
+**./Coherence.tex
+(Coherence.tex
+LaTeX2e <2019-10-01>
+(rsos.cls
+
+LaTeX Warning: You have requested document class `rsos',
+               but the document class provides `rsproca'.
+
+Document Class: rsproca 2005/12/01 v1.1 Standard LaTeX document class
